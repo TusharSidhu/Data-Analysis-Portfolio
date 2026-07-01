@@ -1,6 +1,6 @@
 # 📊 Data Analysis Portfolio
 
-Welcome to my **Data Analysis Portfolio**! This repository showcases my work on real-world data analytics projects completed during internships, professional work, and independent research.
+Welcome to my **Data Analysis Portfolio**! This repository showcases my work on real-world data analytics projects completed during internships and professional work.
 
 The projects included here demonstrate my ability to collect, clean, organize, analyze, and present data to generate meaningful insights for decision-making.
 
@@ -28,6 +28,7 @@ Data-Analysis-Portfolio
 │
 ├── InAmigos Foundation (IAF)
 │   ├── NGOs Research and Data Collection
+│   ├── AI-Powered Data Analysis Report
 │
 └── README.md
 ```
@@ -35,10 +36,9 @@ Data-Analysis-Portfolio
 ---
 
 # Internships
+## **InAmigos Foundation (IAF)**
 
-## InAmigos Foundation (IAF)
-
-### NGOs Research and Data Collection
+## NGOs Research and Data Collection
 
 **Project Overview**
 
@@ -53,10 +53,13 @@ This project involved researching ten NGOs operating in India across different s
 
 ### Dataset Includes
 
+* Logo
 * NGO Name
 * Website
-* Headquarters
 * Area of Work
+* Headquarters (City)
+* Headquarters (State)
+* Address
 * Key Initiatives
 
 ### Tools Used
@@ -64,6 +67,7 @@ This project involved researching ten NGOs operating in India across different s
 * Google Sheets
 * Google Search
 * ChatGPT
+* Relevant Websites
 
 ### Skills Demonstrated
 
@@ -74,15 +78,50 @@ This project involved researching ten NGOs operating in India across different s
 * Documentation
 * AI-Assisted Research
 
----
+## AI-Powered Data Analysis Report
 
-# 🛠 Tools & Technologies
+**Project Overview**
 
-* Microsoft Excel
-* Google Sheets
-* Git
-* GitHub
+This project explored the future of NGOs and fundraising in the age of Artificial Intelligence, focusing on opportunities, challenges, and the role of digital trust. The report was developed using AI-assisted research to analyze emerging trends, summarize key findings, and present actionable insights in a structured format.
+
+*TOPIC* - The Future of NGOs and Fundraising in the Age of Artificial Intelligence: Opportunities, Challenges, and Digital Trust
+
+### Objectives
+
+To understand how Artificial Intelligence can assist in research, data analysis, information summarization, and report generation while evaluating its impact on the future of NGOs and fundraising.
+
+### Report Covers
+
+* Opportunities of AI in the NGO sector
+* AI-driven fundraising strategies
+* Challenges and ethical considerations
+* Digital trust and data privacy
+* Future trends and recommendations
+
+### Tools Used
+
 * ChatGPT
+* Google Search
+* Google Docs
+* AI Research Tools
+
+### Tools Used
+
+* Google Sheets
+* Google Search
+* ChatGPT
+* Relevant Websites
+
+### Skills Demonstrated
+
+* AI-Assisted Research
+* Data Analysis
+* Information Summarization
+* Report Writing
+* Critical Thinking
+* Trend Analysis
+* Documentation
+
 
 ---
 
