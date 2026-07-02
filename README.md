@@ -126,6 +126,9 @@ To understand how Artificial Intelligence can assist in research, data analysis,
 * Trend Analysis
 * Documentation
 
+### Image
+
+![NGO Funraising & AI](<Assets/Analysis Cover Image.png>)
 
 ---
 
