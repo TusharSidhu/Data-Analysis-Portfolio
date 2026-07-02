@@ -44,14 +44,14 @@ Data-Analysis-Portfolio
 
 This project involved researching ten NGOs operating in India across different social sectors. Information was collected from publicly available sources and AI-assisted research, then organized into a structured dataset using Google Sheets.
 
-### Objectives
+**Objectives**
 
 * Research NGOs working in different sectors
 * Collect reliable organizational information
 * Organize data into a structured tabular format
 * Build a clean dataset for further analysis and reporting
 
-### Dataset Includes
+**Dataset Includes**
 
 * Logo
 * NGO Name
@@ -62,14 +62,14 @@ This project involved researching ten NGOs operating in India across different s
 * Address
 * Key Initiatives
 
-### Tools Used
+**Tools Used**
 
 * Google Sheets
 * Google Search
 * ChatGPT
 * Relevant Websites
 
-### Skills Demonstrated
+**Skills Demonstrated**
 
 * Internet Research
 * Data Collection
@@ -78,9 +78,11 @@ This project involved researching ten NGOs operating in India across different s
 * Documentation
 * AI-Assisted Research
 
-### Image
+**Image**
 
 ![NGO Research & Data Collection](<Assets/NGO Research.jpeg>)
+
+---
 
 ## AI-Powered Data Analysis Report
 
@@ -90,11 +92,11 @@ This project explored the future of NGOs and fundraising in the age of Artificia
 
 *TOPIC* - The Future of NGOs and Fundraising in the Age of Artificial Intelligence: Opportunities, Challenges, and Digital Trust
 
-### Objectives
+**Objectives**
 
 To understand how Artificial Intelligence can assist in research, data analysis, information summarization, and report generation while evaluating its impact on the future of NGOs and fundraising.
 
-### Report Covers
+**Report Covers**
 
 * Opportunities of AI in the NGO sector
 * AI-driven fundraising strategies
@@ -102,33 +104,72 @@ To understand how Artificial Intelligence can assist in research, data analysis,
 * Digital trust and data privacy
 * Future trends and recommendations
 
-### Tools Used
+**Tools Used**
 
 * ChatGPT
 * Google Search
 * Google Docs
 * AI Research Tools
 
-### Tools Used
-
-* Google Sheets
-* Google Search
-* ChatGPT
-* Relevant Websites
-
-### Skills Demonstrated
+**Skills Demonstrated**
 
 * AI-Assisted Research
 * Data Analysis
 * Information Summarization
 * Report Writing
 * Critical Thinking
-* Trend Analysis
 * Documentation
 
-### Image
+**Image**
 
 ![NGO Funraising & AI](<Assets/Analysis Cover Image.png>)
+
+---
+
+## Volunteer Oppurtinities Data Collection
+
+**Project Overview**
+
+This project involved researching and compiling information on volunteer opportunities, internships, fellowships and social initiatives available for students across India. 
+
+Information was collected from publicly available sources and organized into a structured dataset to serve as a comprehensive resource for students seeking experiential learning opportunities.
+
+**Objectives**
+
+To develop research and data organization skills while creating a useful, well-structured resource that helps students discover and compare opportunities in the social impact sector.
+
+**Dataset Includes**
+
+* Organization Name
+* Opportunity Name
+* Opportunity Type
+* Sector
+* Eligibility
+* Duration (Months)
+* Benefits
+* Application Link
+* Application Deadline
+* Status
+
+**Tools Used**
+
+* Google Sheets
+* Google Search
+* ChatGPT
+
+**Skills Demonstrated**
+
+* Internet Research
+* Data Collection
+* Data Organization
+* Spreadsheet Management
+* Documentation
+* AI-Assisted Research
+* Information Verification
+
+**Image**
+
+[Volunteer Oppurtunity](<Assets/Volunteer Opportunity.jpeg>)
 
 ---
 
