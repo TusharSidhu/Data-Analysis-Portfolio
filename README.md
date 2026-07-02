@@ -30,7 +30,7 @@ Data-Analysis-Portfolio
 │   ├── NGOs Research and Data Collection
 │   ├── AI-Powered Data Analysis Report
 │   ├── Volunteer Opportunity Data Compilation
-│
+│   └── AI Insights for NGO Growth
 └── README.md
 ```
 
@@ -171,6 +171,48 @@ To develop research and data organization skills while creating a useful, well-s
 **Image**
 
 ![Volunteer Oppurtunity](<Assets/Volunteer Opportunity.jpeg>)
+
+---
+
+## AI Insights for NGO Growth
+
+**Project Overview**
+
+This project focused on researching successful NGO practices and leveraging AI tools to identify practical strategies for improving outreach, volunteer engagement, fundraising, and online presence. The findings were compiled into a structured report with actionable recommendations supported by brief explanations.
+
+**Objectives**
+
+To encourage analytical thinking and generate practical, AI-driven recommendations that can help social organizations enhance their impact, operational efficiency, and digital engagement.
+
+**Report Covers**
+
+* AI-powered outreach strategies
+* Volunteer engagement and management
+* Fundraising optimization
+* Social media and online presence enhancement
+* AI tools for organizational efficiency
+
+**Tools Used**
+
+* ChatGPT
+* Google Search
+* Google Docs
+* AI Research Tools
+
+**Skills Demonstrated**
+
+* AI-Assisted Research
+* Strategic Analysis
+* Problem Solving
+* Report Writing
+* Critical Thinking
+* Information Synthesis
+* Documentation
+* Recommendation Development
+
+**Image**
+
+![AI Insights](<Assets/AI Insights.jpeg>)
 
 ---
 
