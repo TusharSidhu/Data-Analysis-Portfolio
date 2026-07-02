@@ -29,6 +29,7 @@ Data-Analysis-Portfolio
 ├── InAmigos Foundation (IAF)
 │   ├── NGOs Research and Data Collection
 │   ├── AI-Powered Data Analysis Report
+│   ├── Volunteer Opportunity Data Compilation
 │
 └── README.md
 ```
