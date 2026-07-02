@@ -170,7 +170,7 @@ To develop research and data organization skills while creating a useful, well-s
 
 **Image**
 
-[Volunteer Oppurtunity](<Assets/Volunteer Opportunity.jpeg>)
+![Volunteer Oppurtunity](<Assets/Volunteer Opportunity.jpeg>)
 
 ---
 
