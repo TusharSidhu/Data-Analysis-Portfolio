@@ -78,6 +78,10 @@ This project involved researching ten NGOs operating in India across different s
 * Documentation
 * AI-Assisted Research
 
+### Image
+
+![NGO Research & Data Collection](<Assets/NGO Research.jpeg>)
+
 ## AI-Powered Data Analysis Report
 
 **Project Overview**
